@@ -26,7 +26,7 @@ LOAD_PLUG = {}
 # PaperPlaneExtended Support Vars
 ENV = os.environ.get("ENV", False)
 
-CAT_ID = ["1289422521"]
+CAT_ID = ["1320929227"]
 
 """ PPE initialization. """
 
@@ -131,7 +131,7 @@ if bool(ENV):
     # Upstream Repo
     UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/DARK-COBRA/DARKCOBRA.git")
+    "https://github.com/HELLION-USERBOT/HELLION-USERBOT.git")
 
     # Last.fm Module
     BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
