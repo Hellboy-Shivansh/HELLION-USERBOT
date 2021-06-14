@@ -67,4 +67,4 @@ RUN wget https://raw.githubusercontent.com/HELLION-USERBOT/HELLION-USERBOT/maste
 RUN pip3 install --upgrade pip && pip3 install --no-cache-dir -r requirements.txt
 #CMD ["python3","start.py"]
 
-CMD ["python3","sh1vamrun.py"]
+CMD ["python3","amaanrun.py"]
