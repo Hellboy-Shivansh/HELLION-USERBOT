@@ -50,6 +50,8 @@ RUN apt update && apt upgrade -y && apt install --no-install-recommends -y \
         libopus0 \
         libopus-dev \
         gcc
+
+
 RUN wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && \
     dpkg -i ./google-chrome-stable_current_amd64.deb; apt -fqqy install && \
     rm ./google-chrome-stable_current_amd64.deb
