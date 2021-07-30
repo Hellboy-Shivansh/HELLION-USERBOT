@@ -107,5 +107,5 @@ The UniBorg Config is situated in&nbsp;<code style="background-color: rgba(27, 3
 <li style="box-sizing: border-box; margin-top: 0.25em;"><code style="background-color: rgba(27, 31, 35, 0.05); border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; margin: 0px; padding: 0.2em 0.4em;">API_HASH</code>: You can get this value from&nbsp;<a href="https://my.telegram.org/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;">https://my.telegram.org</a></li>
 </ul>
 </li>
-<li style="box-sizing: border-box; margin-top: 0.25em;">The userbot will not work without setting the mandatory vars.</li>
+<li style="box-sizing: border-box; margin-top: 0.25em;">The userbot will not work without setting the mandatory vars.
 
