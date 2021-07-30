@@ -110,4 +110,4 @@ The UniBorg Config is situated in&nbsp;<code style="background-color: rgba(27, 3
 <li style="box-sizing: border-box; margin-top: 0.25em;">The userbot will not work without setting the mandatory vars.</li>
 </ul>
 </div>
-</
+<
