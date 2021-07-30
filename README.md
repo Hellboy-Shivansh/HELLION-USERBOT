@@ -13,7 +13,7 @@ HELLION</h3>
 <a href="https://telegra.ph/file/a33d0d6ceca0ac3e8f2fd.jpgimageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="500" height="500" src="https://telegra.ph/file/a33d0d6ceca0ac3e8f2fd.jpg" width="500" /></a></div>
 <div>
 <br /></div>
-<div align="center" style="box-sizing: border-box;">
+<div align="center" style="box-sizing: border-box
 </div>
 <div style="box-sizing: border-box;">
 <a href="https://www.python.org/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="forthebadge made-with-python" src="https://camo.githubusercontent.com/5392ad6fb7875a2520001270f08309896b6cb25d/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
